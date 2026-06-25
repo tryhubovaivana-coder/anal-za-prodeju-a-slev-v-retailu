@@ -1,0 +1,1 @@
+# anal-za-prodeju-a-slev-v-retailu
