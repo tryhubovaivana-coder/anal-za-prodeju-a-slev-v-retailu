@@ -1,11 +1,11 @@
-# Analýza prodejů a efektivity slevových akcí v maloobchodě
+# Analýza českého maloobchodu a spotřebního chování (Data ČSÚ)
 
-Vítejte u mího třetího projektu! Tento repozitář slouží jako praktické testovací prostředí pro datovou analytiku v retailu. Zaměřuje se na analýzu tržeb v supermarketech, nákupní chování zákazníků a hodnocení úspěšnosti slevových kampaní.
+Vítejte u mého třetího projektu! Tento repozitář slouží jako analytická sonda do českého maloobchodního trhu. Využívám v něm oficiální otevřená data Českého statistického úřadu (ČSÚ) a Národního katalogu otevřených dat (NKOD) k analýze toho, jak se vyvíjejí tržby obchodníků a jak inflace mění nákupní zvyklosti Čechů.
 
-## 🎯 Vize projektu
-V maloobchodě vznikají nová data s každým pípnutím pokladny. Cílem tohoto projektu je zpracovat transakční data, porozumět nákupním zvyklostem zákazníků, vyhodnotit reálný dopad letákových akcí a navrhnout optimalizaci rozmístění zboží na prodejně.
+🎯 Vize projektu
+Cílem projektu je sledovat dlouhodobé trendy v českém retailu. Zaměřuji se na dynamiku maloobchodních tržeb, vývoj cen základních potravin ve spotřebním koši a dopady ekonomických změn na peněženky českých spotřebitelů.
 
-## 🛠️ Budoucí nástroje
-* SQL pro čištění dat, filtrování transakcí a segmentaci prodejen.
-* Python (Pandas/Seaborn) pro analýzu sezónnosti a hledání vazeb mezi kupovanými produkty.
-* Power BI / Excel pro tvorbu interaktivních přehledů (dashboardů) pro manažery prodeje.
+🛠️ Budoucí nástroje
+* SQL pro agregaci časových řad, filtrování komodit a spojování dat z různých let.
+* Python (Pandas/Matplotlib) pro výpočet indexů spotřebitelských cen a vizualizaci trendů.
+* Power BI pro tvorbu interaktivních přehledů o vývoji cen potravin v ČR.
